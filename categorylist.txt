@@ -1,4 +1,4 @@
-<html>
+
 define category CLIENT_NO_AUTH
 123.123.123.123
 ms.com
@@ -10,4 +10,4 @@ define category NO_AUTH
 end
 define category RISK_BASED
 end
-</html>
+
